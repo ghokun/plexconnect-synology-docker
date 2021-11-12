@@ -32,5 +32,5 @@ docker run -d --name plexconnect \
   -e PLEXCONNECT_FANART_QUALITY=High \
   -e PLEXCONNECT_LOGLEVEL=Normal \
   -e PLEXCONNECT_LOGPATH=. \
-  ghcr.io/ghokun/plexconnect-syngoloy-docker:0.7.4
+  ghcr.io/ghokun/plexconnect-syngoloy-docker:0.7.4-01
 ```
